@@ -1,5 +1,5 @@
 mkdir -pv /etc/exe/apps/ccemux
 cd /etc/exe/apps/ccemux/
-wget https://raw.githubusercontent.com/danilacasito/latest/exe-rto/packages/ccemux.exep 
+wget https://raw.githubusercontent.com/danilacasito/exe-rto/latest/packages/ccemux.exep 
 tar -xvf ccemux.exep
 cd
